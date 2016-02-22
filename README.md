@@ -4,7 +4,7 @@
 * Created using Python 3.1
 * Makes use of opening and reading data from a separate text file
 
-Lesson scenario was as follows:
+Lesson parameters were as follows:
 
 "You’ve been hired by the Brookfield Electronics to create an annual sales report for all of its sales personnel. The data are stored in a text file called SalesData.txt; records in the file are organized with the sale person’s name (last, first format: Bunker, Archie) followed by 12 records containing sales for each month January through December. For extra credit list the employees in alphabetical order in the report.
 
