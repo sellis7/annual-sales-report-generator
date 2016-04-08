@@ -1,5 +1,5 @@
-## Python-wk8
-*Small Python project completed while attending VWCC.*
+## Annual Sales Report Generator
+*Small Python project completed while attending VWCC*
 
 * Created using Python 3.1
 * Makes use of opening and reading data from a separate text file
